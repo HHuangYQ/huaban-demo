@@ -4,3 +4,6 @@
 #canvas{
     display: block;
 }
+body{
+    overflow:hidden;
+}
